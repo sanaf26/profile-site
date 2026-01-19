@@ -19,3 +19,12 @@ Hi! I'm an Associate Analytics Engineer learning analytics engineering and build
 | GitHub | Hosting repositories and collaboration |
 | VS Code | Writing and editing code |
 | SQL | Data analysis and transformations |
+
+## Site outline
+
+- Home (index.html)
+  - Name + short intro
+  - Navigation to second page
+- About (about.html)
+  - Short bio
+  - What I’m learning / working on
