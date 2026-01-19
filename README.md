@@ -1,3 +1,16 @@
+# Sana Fiaz
+
+Hi! I'm an Associate Analytics Engineer learning analytics engineering and building my GitHub skills.
+
+## Skills
+- SQL
+- Git & GitHub
+- Analytics engineering
+- Command line
+
+## Links
+- [My GitHub profile](https://github.com/sanaf26)
+
 ## Tools & Technologies
 
 | Tool | What I use it for |
